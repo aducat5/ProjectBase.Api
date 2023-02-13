@@ -2,7 +2,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using ProjectBase.Data.Services;
 
-namespace Solvy.Api.Controllers
+namespace ProjectBase.Api.Controllers
 {
     [ApiController]
     [Authorize]
